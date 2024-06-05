@@ -1,6 +1,6 @@
 # TITLE:MACHINE LEARNING CLASSIFICATION MODEL FOR PREDICTING CUSTOMER CHURN AT SYRIA TEL.
 
-![SyriaTel company logo](SyriaTel_company.jng)
+![SyriaTel](SyriaTel.jng)
 
 
 # 1.0 Project Overview/Business understanding.
@@ -76,7 +76,7 @@ Summary of Features in the Dataset
 # 3.0 Data Analysis
 Did Univariate ,Bivariate and multivariate analysis.
 
-![visualizechurnusingcustomerservice](churn_ratevscustomerservicecalls.png)
+![churn](churn_rate.png)
 
 I noticed that rate of loss of customers /subscribers in syriatel was higher for the people who only made one customer service call followed by the customers who did not even bother making even a single call.Customers who had be used to making upto 9 customer calls had a lower rate of churn
 Also the highest loss of customers is witnessed as the total_number of minutes increase 
