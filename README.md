@@ -1,7 +1,8 @@
 # TITLE:MACHINE LEARNING CLASSIFICATION MODEL FOR PREDICTING CUSTOMER CHURN AT SYRIA TEL.
 
 
-![syriatel](SyriaTel.jpg)
+![churn](branded.jpg)
+
 
 
 
